@@ -25,8 +25,4 @@ Civil engineering student who loves software development — especially **signal
 
 ---
 
-<div align="center">
 
-![Isnaini's GitHub stats](https://github-readme-stats.vercel.app/api?username=iniizhna&show_icons=true&hide_border=true&theme=default)
-
-</div>
